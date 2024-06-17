@@ -1,0 +1,25 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "moment index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryawanshishreyas/task.git"
+  },
+  "author": "shreyas suryawanshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryawanshishreyas/task/issues"
+  },
+  "homepage": "https://github.com/suryawanshishreyas/task#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
